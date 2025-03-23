@@ -1,0 +1,1 @@
+g++ main.cpp -Llib-mingw-w64 -lglfw3 -lopengl32 -lgdi32
